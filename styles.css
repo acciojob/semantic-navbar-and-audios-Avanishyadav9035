@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.nav {
+	display: flex;
+	justify-content: space-between;
+	background-color: yellow;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
